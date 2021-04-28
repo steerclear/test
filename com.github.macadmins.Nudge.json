@@ -9,7 +9,12 @@
         "11.1",
         "11.2",
         "11.2.1",
-      "aboutUpdateURL": "https://masterclass-dev.atlassian.net/l/c/Y4o10GYx",
+        ],
+      "aboutUpdateURL":  [
+        {
+          "_language": "en",
+          "aboutUpdateURL": "https://masterclass-dev.atlassian.net/l/c/Y4o10GYx"
+        },
       ]
     }
   ],
