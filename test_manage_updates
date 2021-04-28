@@ -1,0 +1,15 @@
+{
+  "osVersionRequirements": [
+    {
+      "requiredInstallationDate": "2021-05-01T00:00:00Z",
+      "requiredMinimumOSVersion": "11.3.0",
+      "targetedOSVersions": [
+        "11.0",
+        "11.0.1",
+        "11.1",
+        "11.2"
+        "11.2.1
+      ]
+    }
+  ]
+}
