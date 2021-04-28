@@ -1,12 +1,7 @@
 {
   "osVersionRequirements": [
     {
-      "aboutUpdateURLs": [
-          {
-            "_language": "en",
-            "aboutUpdateURL": "https://masterclass-dev.atlassian.net/l/c/Y4o10GYx"
-          }
-        ],
+      "aboutUpdateURL": "https://masterclass-dev.atlassian.net/l/c/Y4o10GYx",
       "requiredInstallationDate": "2021-05-01T00:00:00Z",
       "requiredMinimumOSVersion": "11.3",
       "targetedOSVersions": [
