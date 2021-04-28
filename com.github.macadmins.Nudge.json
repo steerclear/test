@@ -24,7 +24,7 @@
         "mainContentHeader": "Your device may need to restart during this update",
         "mainContentText": "A fully up-to-date device is required to best support and protect both your device and data.\n\nIf you do not update your device, you may be unable to access data and services necessary for your day-to-day tasks.\n\nTo begin the update, save any work and close all applications. Simply click on the blue \"Update Device\" button above and follow the provided steps.",
         "primaryQuitButtonText": "Update Later",
-        "informationButtonText": "Why am I seeing this?",
+        "informationButtonText": "More Info on Software Updates",
         }
     ]
   }
